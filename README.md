@@ -1,13 +1,15 @@
 <div align="center">
 
 ## Bruteforce Concept Demonstration
-[![Python Badge](https://img.shields.io/badge/Made_with_Python-3776AB?logo=python&labelColor=white)](https://python.org/)
-
 ### A demonstration of the concept of bruteforcing a website or email login written in Python.
+
+[![Python Badge](https://img.shields.io/badge/Made_with_Python-3776AB?logo=python&labelColor=white)](https://python.org/)
 
 [Intro](#introduction) • [Run it](#how-to-run-it) • [Use it](#how-to-use-it) • [Disclaimer](#disclaimer)
 
 </div>
+
+##
 
 ### Introduction
 This project was assigned as a pet project for work. It is not meant to be used as a practical tool, but as an educational demonstration.
