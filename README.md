@@ -5,6 +5,8 @@
 
 ### A demonstration of the concept of bruteforcing a website or email login written in Python.
 
+[Intro](#introduction) • [Run it](#how-to-run-it) • [Use it](#how-to-use-it) • [Disclaimer](#disclaimer)
+
 </div>
 
 ### Introduction
@@ -32,12 +34,10 @@ The application will execute the actions indicated by the entered flags and then
 <img src="assets/images/BruteForcer.png" alt="BruteForcer.py on a Terminal Window" align="center"/>
 
 ##
-> #### DISCLAIMER: I do not condone the use of this software in any way that breaks the law, as it was made entirely for educational purposes.
+> #### DISCLAIMER:
+> **I do not condone the use of this software in any way that breaks the law, as it was made entirely for educational purposes.**
+> 
 > The software is offered as is, and **I do not** take responsibility for any kind of misuse.
 ##
 
-<div align="center">
-
 [![Back to the Top Badge](https://custom-icon-badges.demolab.com/badge/Back_to_the_Top-171515?logo=chevron-up)](#bruteforce-concept-demonstration)
-
-</div>
