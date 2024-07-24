@@ -2,14 +2,12 @@
 
 ## Bruteforce Concept Demonstration
 ### A demonstration of the concept of bruteforcing a website or email login written in Python.
-
 [![Python Badge](https://img.shields.io/badge/Made_with_Python-3776AB?logo=python&labelColor=white)](https://python.org/)
+##
 
 [Intro](#introduction) • [Run it](#how-to-run-it) • [Use it](#how-to-use-it) • [Disclaimer](#disclaimer)
 
 </div>
-
-##
 
 ### Introduction
 This project was assigned as a pet project for work. It is not meant to be used as a practical tool, but as an educational demonstration.
@@ -18,10 +16,12 @@ This tries to demonstrate the underlying code behind bruteforce network attacks,
 
 ### How to Run it
 To run the application, simply invoke it with the appropriate flags for it to function. Using the `--help` flag will show a list of the available flags and options. Any missing flags for the code to function will be indicated on the terminal window.
+
 ###### Run it with python:
 ```sh
 python3 bruteforcer.py --help
 ```
+
 ###### Or run it directly with a shell:
 ```sh
 ./bruteforcer.py --help
