@@ -24,7 +24,7 @@ python3 bruteforcer.py --help
 
 ###### Or run it directly with a shell:
 ```sh
-./bruteforcer.py --help
+$(pwd)/bruteforcer.py --help
 ```
 
 > ###### Dependencies:
@@ -42,4 +42,8 @@ The application will execute the actions indicated by the entered flags and then
 > The software is offered as is, and **I do not** take responsibility for any kind of misuse.
 ##
 
+<div align="center">
+
 [![Back to the Top Badge](https://custom-icon-badges.demolab.com/badge/Back_to_the_Top-171515?logo=chevron-up)](#bruteforce-concept-demonstration)
+
+</div>
