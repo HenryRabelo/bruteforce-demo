@@ -33,7 +33,7 @@ $(pwd)/bruteforcer.py --help
 ### How to Use it
 The application will execute the actions indicated by the entered flags and then _promptly_ exit. If any other actions are desired, run the program again using different flags.
 
-<img src="assets/images/BruteForcer.png" alt="BruteForcer.py on a Terminal Window" align="center"/>
+<img src=".assets/images/BruteForcer.png" alt="BruteForcer.py on a Terminal Window" align="center"/>
 
 ##
 > #### DISCLAIMER:
